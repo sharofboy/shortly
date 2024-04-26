@@ -1,0 +1,165 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 48px;
+    margin-left: 167px;
+}
+
+ul {
+    display: flex;
+    gap: 32px;
+    margin-right: 600px;
+}
+
+ul li a {
+    color: #9E9AA8;
+}
+
+.btn {
+    width: 105px;
+    height: 40px;
+    background-color: #2BD0D0;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    margin-right: 165px;
+}
+
+.butn {
+    width: 197px;
+    height: 56px;
+    color: white;
+    background-color: #2BD0D0;
+    border: none;
+    border-radius: 30px;
+    margin-top: 38px;
+}
+
+.row {
+    margin-top: 139px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2 {
+    width: 565px;
+    font-size: 80px;
+}
+
+p {
+    width: 540px;
+    color: #9E9AA8;
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+.row_left {
+    margin-left: 165px;
+    margin-right: 50px;
+}
+
+.cc {
+    width: 733px;
+    height: 482px;
+}
+
+.content {
+    background-color: rgba(56, 21, 0, 0.979);
+    width: 1440px;
+    height: 270px;
+    margin-top: 223px;
+    position: relative;
+}
+
+.qw {
+    background-image: url(./Path\ 2.png);
+    width: 1110px;
+    height: 168px;
+    padding: 52px;
+    position: absolute;
+    top: -86px;
+    left: 140px;
+}
+
+.as {
+    width: 769px;
+    height: 64px;
+    border-radius: 8px;
+    border: none;
+    padding: 30px;
+
+}
+
+.b {
+    width: 188px;
+    height: 64px;
+    background-color: #2BD0D0;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-left: 24px;
+}
+
+.q {
+    width: 197px;
+    height: 60.48px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    background-color: #2BD0D0;
+    margin-top: 13px;
+    margin-left: 621px;
+    position: absolute;
+    top: 136px;
+}
+
+h3 {
+    width: 540px;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 86px;
+    left: 530px;
+}
+
+.qora {
+    background-color: black;
+    width: 1440px;
+    height: 150.2px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+h4{
+    color: white;
+    font-size: 30px;
+}
+.qora ul li a{
+    color: white;
+}
+.qora-2{
+    margin-top: 68px;
+}
+.qora ul{
+    gap: 32px;
+    margin-left: 200px;
+    margin-top: -25px;
+    
+}
+
